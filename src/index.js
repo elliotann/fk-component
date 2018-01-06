@@ -41,6 +41,7 @@ import SelectComponent from './components/select'
 import DropdownComponent from './components/dropdown'
 import EchartsComponent from './components/echarts'
 import DataGridComponent from './components/datagrid'
+import TreeDataGridComponent from './components/treedatagrid'
 import TableComponent from './components/table'
 import FormComponent from './components/form'
 import GridLayoutComponent from './components/gridLayout'
@@ -93,6 +94,7 @@ export const Select = SelectComponent
 export const Dropdown = DropdownComponent
 export const Echarts = EchartsComponent
 export const DataGrid = DataGridComponent
+export const TreeDataGrid = TreeDataGridComponent
 export const Table = TableComponent
 export const Form = FormComponent
 export const GridLayout = GridLayoutComponent
